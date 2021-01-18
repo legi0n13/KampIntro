@@ -27,6 +27,7 @@ namespace DegerVeReferansTipler
             //pointers
             //değer tipler stack 
             //referans tipler(referans numaraları) stack -> heap (referans adresi kopyalama)
+            //test
         }
     }
 }
